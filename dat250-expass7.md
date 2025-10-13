@@ -4,13 +4,13 @@
 
 - Therefore of course no error when executing the given command 
 
--Created a Dockerfile in my Project-Folder
+- Created a Dockerfile in my Project-Folder
 
--Created a .dockerignore for better build times 
+- Created a .dockerignore for better build times 
 
--added for example git there 
+- added for example git there 
 
--Created a docker-file with the build and the runtime stage 
+- Created a docker-file with the build and the runtime stage 
 
 ```bash
 
